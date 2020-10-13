@@ -1,0 +1,96 @@
+body{
+    background-color: blue;
+}
+
+header{
+    text-align: center;
+}
+
+main{
+    margin: auto;
+}
+
+form{
+    margin: auto;
+    /* background-color: blue; */
+    width: 50%;
+    justify-content: center;
+}
+
+.img-file-div{
+    margin: auto;
+}
+
+.img-div{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
+input{
+    width:40%;
+    height: 30px;
+}
+
+.f-l-name{
+    display: flex;
+    margin: auto;
+}
+
+.f-l-name input{
+    width: 100%;
+}
+
+.f-name{
+    margin-right: 18px;
+    width: 50%;
+} 
+
+.l-name{
+    width: 49%;
+}
+
+.browser-info input{
+    width: 100%;
+}
+
+.username{
+    width: inherit;
+}
+.email{
+    width: inherit;
+}
+
+.passwords{
+    display: flex;
+    /* margin: auto; */
+}
+
+.passwords input{
+    width: 100%;
+}
+
+.password{
+    margin-right: 18px;
+    width: 50%;
+} 
+
+.c-password{
+    width: 49%;
+} 
+
+.text-area {
+    width: 100%;
+}
+
+.text-area textarea{
+    width: inherit;
+}
+
+.submit{
+    text-align: center;
+}
+
+.submit input{
+    width: 10%;
+    height: 40px;
+}
