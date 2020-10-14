@@ -31,21 +31,21 @@ input{
     height: 30px;
 }
 
-.f-l-name{
+.first-and-last-name{
     display: flex;
     margin: auto;
 }
 
-.f-l-name input{
+.first-and-last-name input{
     width: 100%;
 }
 
-.f-name{
+.first-name{
     margin-right: 18px;
     width: 50%;
 } 
 
-.l-name{
+.last-name{
     width: 49%;
 }
 
@@ -74,7 +74,7 @@ input{
     width: 50%;
 } 
 
-.c-password{
+.conform-password{
     width: 49%;
 } 
 
