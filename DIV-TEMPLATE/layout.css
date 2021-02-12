@@ -1,0 +1,44 @@
+header{
+    background-color: skyblue;
+    height: 75px;
+    margin-bottom: 4px;
+    text-align: center;
+}
+.container{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.aside{
+    margin-top: 19px;
+    width: 29%;
+    height: 500px;
+    background-color: slategrey;
+}
+
+.main{
+    width: 70%;
+    height: 500px;
+}
+
+.section-1{
+    width: inherit;
+    height: 294px;
+    margin-bottom: 2px;
+    background-color: lightseagreen;
+}
+
+.section-2{
+    width: inherit;
+    height: 186px;
+    background-color: palegreen;
+}
+
+footer{
+    background-color: teal;
+    height: 75px;
+    text-align: center;
+}
